@@ -1,0 +1,8 @@
+delta south
+north
+west
+gamma east
+east
+gamma west
+south
+delta

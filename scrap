@@ -1,0 +1,40 @@
+        //test.foreach{e=>println(e.mkString(""))}
+ 
+        //var test = printableMineField.flatMap { x => x }.filter(y=>y != '*')
+         //foreach(y=> if(y!println(y))
+        // test.foreach{e=>println(e.mkString(""))}
+       //println(test.toString)
+        
+        //foreach({e=>e._2.foreach({k=>println(k._1,k._2,e._1)})})
+        
+                //var test =printableMineField.filter { y=> y.}//(z != '*') }  //case(z)=>(z != '*') } }}//.foreach{e=>println(e.mkString(""))}
+      //  var test = printableMineField.filter { x=>case(l) =>(l != '*') }}
+        //forall(_.equals('*')) //flatMap { x => x }.filter(y=>y == '*')
+        // test = printableMineField.flatMap { x => x.toString() }//.filter(y=>y != '*')
+         //foreach(y=> if(y!println(y))
+    //    println(test.toString)
+        
+        //test
+       //println(test)
+       
+       
+       //fieldSize_x.foreach(e=>println(e._3))
+     //fieldSize_y = originalMineField_X_Y.count()
+     //fieldSize.foreach(e=>println(e._2,e._3))
+     //var fieldSize = originalMineField_X_Y.flatMap(x=>x).takeOrdered(1)(Ordering[Long].reverse.on(_._2)).reduce((i,j)=>('A',math.max(i._2,j._2),math.max(i._3,j._3)))
+     
+     // good  val mineField_X_Y = mineField.zipWithIndex map { case (k,v) => (k.toList.iterator.zipWithIndex,v) }
+     
+     // val depthField = originalMineField_X_Y map {case (k) => (k map { case(l,i,j) => (l)})}
+   // depthField.flatMap {x=>x }.filter { x=>x=='Z' }.
+   // foreach { println }
+ 
+
+
+    //  val t_mineField_Coords = Array(mineField_X_Y.foreach({e=>e._2.foreach({k=>println(k._1,k._2,e._1)})}))
+    //t_mineField_Coords.foreach { println }
+     //  val t_mineField_Coords = foreach({e=>e._2.foreach({j=>(j._1,._2,e._1)})})
+    
+    //val r2 = mineField.flatMap { _.split("") }
+    //r2.foreach(println)
+     
